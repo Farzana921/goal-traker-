@@ -94,7 +94,9 @@ function DashboardPage() {
       {/* Welcome */}
       <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
         <div>
-          <h1 className="text-3xl font-semibold tracking-tight">{t.dashboard.welcome}</h1>
+          <h1 className="text-3xl font-semibold tracking-tight">
+              Farzana's Goal Tracker
+         </h1>
           <p className="mt-1 text-sm text-muted-foreground">{t.dashboard.subtitle}</p>
         </div>
         <div className="flex gap-2">
