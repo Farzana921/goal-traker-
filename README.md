@@ -1,5 +1,9 @@
 # Goal Tracker Dashboard
 
+## Repository
+
+GitHub: https://github.com/Farzana921/goal-traker-
+
 Developed by: Farzana
 
 ## Project Overview
