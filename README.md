@@ -24,38 +24,38 @@ Goal Tracker Dashboard is a React web application that helps users create goals,
 
 ### Dashboard
 
-* [x] Overall completion percentage
-* [x] Active goals summary
-* [x] Completed goals summary
-* [x] XP tracking
-* [x] Streak tracking
-* [x] Progress charts
-* [x] Achievement badges
+*  Overall completion percentage
+*  Active goals summary
+*  Completed goals summary
+*  XP tracking
+*  Streak tracking
+*  Progress charts
+*  Achievement badges
 
 ### Goal Management
 
-* [x] Create goal
-* [x] View goals
-* [x] Edit goal
-* [x] Delete goal
-* [x] Pause/Resume goal
-* [x] Mark goal progress
+*  Create goal
+*  View goals
+*  Edit goal
+*  Delete goal
+*  Pause/Resume goal
+*  Mark goal progress
 
 ### Categories
 
-* [x] Category overview
-* [x] Category statistics
-* [x] Progress visualization
+*  Category overview
+*  Category statistics
+*  Progress visualization
 
 ### Settings
 
-* [x] Language switch
-* [x] RTL/LTR support
-* [x] Theme settings
+*  Language switch
+*  RTL/LTR support
+*  Theme settings
 
 ### Data Persistence
 
-* [x] LocalStorage support
+*  LocalStorage support
 
 ## XP Rules
 
@@ -71,7 +71,7 @@ Goal Tracker Dashboard is a React web application that helps users create goals,
 
 ## RTL / LTR Support
 
-The application supports English and Arabic/Persian.
+The application supports English and Persian with automatic RTL/LTR layout switching.
 
 * English → Left-to-Right (LTR)
 * Arabic/Persian → Right-to-Left (RTL)
