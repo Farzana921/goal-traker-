@@ -89,13 +89,18 @@ npm run dev
 
 ## Screenshots
 
-### Desktop View
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
 
-(Add screenshot here)
+### Goals Page
+![Goals](./screenshots/goals.png)
 
-### Mobile View
+### Categories Page
+![Categories](./screenshots/categories.png)
 
-(Add screenshot here)
+### Settings Page
+![Settings](./screenshots/settings.png)
+
 
 ## Author
 
