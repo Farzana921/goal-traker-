@@ -105,6 +105,9 @@ npm run dev
 ### Settings Page
 ![Settings](./screenshots/Sittings.png)
 
+### Mobile View
+![Mobile](./screenshots/mobile.png)
+
 
 ## Author
 
