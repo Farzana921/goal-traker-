@@ -90,16 +90,16 @@ npm run dev
 ## Screenshots
 
 ### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/Dashboard.png)
 
 ### Goals Page
-![Goals](./screenshots/goals.png)
+![Goals](./screenshots/Goals.png)
 
 ### Categories Page
-![Categories](./screenshots/categories.png)
+![Categories](./screenshots/Categories.png)
 
 ### Settings Page
-![Settings](./screenshots/settings.png)
+![Settings](./screenshots/Sittings.png)
 
 
 ## Author
