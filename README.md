@@ -74,7 +74,7 @@ Goal Tracker Dashboard is a React web application that helps users create goals,
 The application supports English and Persian with automatic RTL/LTR layout switching.
 
 * English → Left-to-Right (LTR)
-* Arabic/Persian → Right-to-Left (RTL)
+* Persian → Right-to-Left (RTL)
 
 The layout direction changes automatically when the language is switched.
 
